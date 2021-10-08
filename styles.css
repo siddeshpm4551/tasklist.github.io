@@ -1,0 +1,7 @@
+.fa-times{
+    float: right;
+}
+
+.bg-dark{
+    background: linear-gradient(45deg,orange,lightblue,darkgreen);
+}
